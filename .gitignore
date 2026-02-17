@@ -13,3 +13,8 @@ backend/.env
 # General
 .DS_Store
 *.log
+.lightning_studio
+.windsurf-server
+.vscode-server
+.idea
+.cursor-server
