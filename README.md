@@ -79,6 +79,15 @@ npm start
 
 The frontend will run at http://localhost:3000/ (or your cloudspace URL)
 
+## 🖥️ Frontend User Interface
+
+Below is the screenshot of the PDF RAG Chatbot frontend:
+
+![PDF RAG Chatbot Frontend UI](screenshots/frontend-ui.png)
+
+> The UI allows users to upload a PDF, ask questions, and view answers along with page numbers and excerpts.
+
+
 4. Usage
 
 Open the frontend in your browser.
